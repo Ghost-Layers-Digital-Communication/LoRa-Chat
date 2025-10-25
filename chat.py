@@ -97,7 +97,7 @@ def receive_packet():
 class LoRaChatGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("📡 Ghost Layers LoRa Chat")
+        self.root.title("===[Ghost Layers LoRa Chat]=== coded by sacred G")
         self.root.configure(bg="black")
         self.msg_area = scrolledtext.ScrolledText(
             root, wrap=tk.WORD, bg="black", fg="lime", insertbackground="lime"
