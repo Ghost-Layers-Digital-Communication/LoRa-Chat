@@ -1,10 +1,10 @@
 PINOUT from the LoRa Module to the Rasp Pi GPIO BOARD
 
-3.3v - pin 1
+VCC - 3.3v - pin 1
 RESET - pin 11 - GPIO 17
 MOSI - pin 19 - GPIO 10
 MISO - pin 21 - GPIO 19
 SCK - pin 23 - GPIO 11
-GND - pin 6
+GND - GND - pin 6
 NSS - CE0 - pin 24 - GPIO 8
 DIO0 - pin 22 - GPIO 25
